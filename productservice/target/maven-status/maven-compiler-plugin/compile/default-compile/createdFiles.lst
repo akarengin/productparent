@@ -1,0 +1,5 @@
+com\enginakar\product\bo\ProductBOImpl.class
+com\enginakar\product\dto\Product.class
+com\enginakar\product\bo\ProductBO.class
+com\enginakar\product\dao\ProductDaoImpl.class
+com\enginakar\product\dao\ProductDao.class
